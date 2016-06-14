@@ -1,6 +1,6 @@
 <?php
 
-require_once(__DIR__."../social_auth.php");
+require_once(__DIR__."/../social_auth.php");
 
 class LoginController extends CI_Controller
 {
