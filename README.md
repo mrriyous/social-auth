@@ -1,2 +1,2 @@
 # social-auth
-Login using social,  PHP library.
+Login using social,  CodeIgniter library for login using social. 
